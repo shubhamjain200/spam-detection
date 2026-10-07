@@ -1,6 +1,6 @@
 import streamlit as st
 import joblib
-model=joblib.load("sentiment.pkl")
+model=joblib.load("spam.pkl")
 st.set_page_config(layout='wide')
 st.title("Spam detection Project")
 st.sidebar.image("926015_passport_photo.PNG")
