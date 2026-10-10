@@ -7,8 +7,8 @@ st.sidebar.image("926015_passport_photo.PNG")
 st.sidebar.title("About us")
 st.sidebar.text("Spam and Ham Detector Project:An AI powered application that  classifies messages as spam or Ham using machine learning")
 st.sidebar.title("About Projects")
-st.sidebar.text("Message Classification:Detects whether message is Spam or Ham 
-Message Safety:Helps idenify potentially unwanted messages")
+st.sidebar.text("Message Classification:Detects whether message is Spam or Ham")
+st.sidebar.text("Message Safety:Helps idenify potentially unwanted messages")
 st.sidebar.title("Contact us")
 st.sidebar.text("+916283008506")
 sample_review=st.selectbox("Sample reviews of spam and ham",options=['Congratulations! You have won ₹10,00,000. Claim your prize now!'
